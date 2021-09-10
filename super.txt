@@ -1,0 +1,9 @@
+Instagram
+
+Het is inspirerend om te weten dat Instagram van 
+Python komt. Want ik vind het een hele leuke app en
+je kan dagelijks nieuws zien vn dingen over de hele wereld.
+
+Hieronder de link. 
+
+https://djangostars.com/blog/top-seven-apps-built-python/
